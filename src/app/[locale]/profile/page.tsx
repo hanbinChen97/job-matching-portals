@@ -3,7 +3,9 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Avatar, AvatarFallback } from "@/components/ui/avatar"
+import { ProfileCompletionBanner } from "@/components/ProfileCompletionBanner"
 import { Mail, Phone, MapPin, Calendar, Briefcase, GraduationCap, Star } from "lucide-react"
+import { getTranslations } from "@/i18n/translations"
 
 const userProfile = {
   name: "Max Musterman",
@@ -59,7 +61,9 @@ const userProfile = {
   ]
 }
 
-export default function ProfilePage() {
+export default async function ProfilePage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = getTranslations(locale);
   const getStatusColor = (status: string) => {
     switch (status) {
       case "Interview Scheduled":
@@ -78,6 +82,12 @@ export default function ProfilePage() {
       <Header />
       
       <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        {/* Profile Completion Banner */}
+        <ProfileCompletionBanner 
+          completionPercentage={75}
+          missingFields={["Bildungshintergrund", "Berufszertifikate", "Arbeitseinstellungen"]}
+        />
+        
         {/* Profile Header */}
         <Card className="mb-8">
           <CardContent className="pt-6">
@@ -114,17 +124,17 @@ export default function ProfilePage() {
                   </div>
                   <div className="flex items-center space-x-2">
                     <Calendar className="h-4 w-4" />
-                    <span>Joined {userProfile.joinDate}</span>
+                    <span>{t.profilePage.joined.replace('{date}', userProfile.joinDate)}</span>
                   </div>
                 </div>
               </div>
               
               <div className="flex flex-col space-y-2">
                 <Button className="bg-blue-600 hover:bg-blue-700">
-                  Edit Profile
+                  {t.profilePage.editProfile}
                 </Button>
                 <Button variant="outline">
-                  Download CV
+                  {t.profilePage.downloadCV}
                 </Button>
               </div>
             </div>
@@ -139,7 +149,7 @@ export default function ProfilePage() {
               <CardHeader>
                 <CardTitle className="flex items-center space-x-2">
                   <Star className="h-5 w-5" />
-                  <span>Skills</span>
+                  <span>{t.profilePage.skills}</span>
                 </CardTitle>
               </CardHeader>
               <CardContent>
@@ -158,7 +168,7 @@ export default function ProfilePage() {
               <CardHeader>
                 <CardTitle className="flex items-center space-x-2">
                   <Briefcase className="h-5 w-5" />
-                  <span>Experience</span>
+                  <span>{t.profilePage.experience}</span>
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
@@ -180,7 +190,7 @@ export default function ProfilePage() {
               <CardHeader>
                 <CardTitle className="flex items-center space-x-2">
                   <GraduationCap className="h-5 w-5" />
-                  <span>My Applications</span>
+                  <span>{t.profilePage.applications}</span>
                 </CardTitle>
               </CardHeader>
               <CardContent>

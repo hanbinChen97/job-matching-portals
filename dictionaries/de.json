@@ -1,0 +1,113 @@
+{
+  "common": {
+    "navigation": {
+      "jobPortal": "JobPortal",
+      "myCareer": "Meine Karriere",
+      "myJobs": "Meine Jobs",
+      "findJobs": "Jobs finden",
+      "notifications": "Benachrichtigungen",
+      "favorites": "Favoriten"
+    },
+    "buttons": {
+      "startJobMatching": "🎯 Job-Matching starten",
+      "viewAllJobs": "Alle Jobs anzeigen",
+      "findJobs": "Jobs finden",
+      "getStarted": "Loslegen",
+      "seeProfile": "Profil ansehen",
+      "updateProfile": "Profil aktualisieren"
+    },
+    "placeholders": {
+      "jobTitle": "Jobtitel, Fähigkeiten oder Unternehmen",
+      "location": "Ort oder remote"
+    },
+    "header": {
+      "jobPortal": "JobPortal",
+      "myCareer": "Meine Karriere",
+      "myJobs": "Meine Jobs",
+      "findJobs": "Jobs finden",
+      "notifications": "Benachrichtigungen",
+      "favorites": "Favoriten",
+      "userName": "Max Mustermann"
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Willkommen zum Jobportal",
+      "subtitle": "Unabhängig von Ihrem Hintergrund helfen wir Ihnen, passende Arbeitsmöglichkeiten zu finden. Von Reinigung über Gastronomie bis hin zu Pflegearbeit - starten Sie Ihr neues Berufsleben.",
+      "cleaningJobs": {
+        "title": "Reinigungsarbeiten",
+        "description": "Reinigungsarbeiten in Hotels, Bürogebäuden, Einkaufszentren mit stabilem Einkommen und flexiblen Arbeitszeiten"
+      },
+      "hospitalityJobs": {
+        "title": "Gastronomie-Service",
+        "description": "Küchenhilfe, Kellner, Lieferfahrer - verschiedene Gastronomie-Positionen zur Auswahl"
+      },
+      "careJobs": {
+        "title": "Pflegearbeit",
+        "description": "Möglichkeiten in der Altenpflege, Kinderbetreuung und Gesundheitsdiensten mit bereitgestellter Ausbildung"
+      },
+      "warehouseJobs": {
+        "title": "Lager & Logistik",
+        "description": "Verpackungsarbeiter, Sortierer, Lieferfahrer - vielfältige Möglichkeiten in der Logistikbranche"
+      },
+      "careServices": {
+        "title": "Pflegedienste",
+        "description": "Altenpflegehilfe, Haushaltsservice - helfen Sie anderen und finden Sie Erfüllung"
+      },
+      "constructionJobs": {
+        "title": "Bauhilfe",
+        "description": "Renovierungshelfer, Träger, Hilfstätigkeiten auf Baustellen"
+      },
+      "factoryJobs": {
+        "title": "Fabrikproduktion",
+        "description": "Montagearbeiter, Qualitätsprüfer, Fließbandarbeiter - Positionen in der Fertigungsindustrie"
+      },
+      "whyChooseUs": {
+        "title": "Warum uns wählen?",
+        "free": {
+          "title": "Völlig kostenlos",
+          "description": "Registrierung, Matching und Bewerbung komplett kostenlos"
+        },
+        "matching": {
+          "title": "Präzises Matching",
+          "description": "Die passendsten Jobs basierend auf Ihrer Situation"
+        },
+        "support": {
+          "title": "Mehrsprachiger Support",
+          "description": "Deutsch, Englisch, Arabisch und weitere Sprachen"
+        }
+      },
+      "cta": {
+        "question": "Bereit, Ihren Traumjob zu finden?",
+        "startMatching": "Jetzt Matching starten"
+      },
+      "featuredJobs": {
+        "title": "Featured Jobs",
+        "hotelCleaner": {
+          "title": "Hotel Cleaner",
+          "company": "Luxury Hotels Group",
+          "location": "München",
+          "salary": "€2,500-3,200/Monat",
+          "type": "Vollzeit",
+          "description": "Treten Sie unserem Team in Luxushotels in München bei. Ausbildung in Reinigungsverfahren und Gästeservice-Standards wird bereitgestellt."
+        },
+        "kitchenHelper": {
+          "title": "Küchenhilfe",
+          "company": "Restaurant Chain",
+          "location": "Berlin",
+          "salary": "€2,200-2,800/Monat",
+          "type": "Teilzeit",
+          "description": "Unterstützen Sie unser Küchenteam in einem belebten Restaurant. Lernen Sie Kochfähigkeiten während Sie ein stabiles Einkommen verdienen."
+        },
+        "caregiver": {
+          "title": "Altenpfleger",
+          "company": "Care Services Ltd",
+          "location": "Hamburg",
+          "salary": "€2,800-3,500/Monat",
+          "type": "Vollzeit",
+          "description": "Bieten Sie mitfühlende Pflege für ältere Klienten. Vollständige Ausbildung und Zertifizierung werden bereitgestellt."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "common": {
+    "navigation": {
+      "jobPortal": "求职门户",
+      "myCareer": "我的职业",
+      "myJobs": "我的工作",
+      "findJobs": "寻找工作",
+      "notifications": "通知",
+      "favorites": "收藏"
+    },
+    "buttons": {
+      "startJobMatching": "🎯 开始职位匹配",
+      "viewAllJobs": "查看所有工作",
+      "findJobs": "寻找工作",
+      "getStarted": "立即开始",
+      "seeProfile": "查看资料",
+      "updateProfile": "更新资料"
+    },
+    "placeholders": {
+      "jobTitle": "职位名称、技能或公司",
+      "location": "地点或远程"
+    },
+    "header": {
+      "jobPortal": "求职门户",
+      "myCareer": "我的职业",
+      "myJobs": "我的工作",
+      "findJobs": "寻找工作",
+      "notifications": "通知",
+      "favorites": "收藏",
+      "userName": "张三"
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "欢迎来到求职门户",
+      "subtitle": "无论您的背景如何，我们都能帮您找到合适的工作机会。从清洁到餐饮到护理工作 - 开启您的新职业生涯。",
+      "cleaningJobs": {
+        "title": "清洁工作",
+        "description": "酒店、办公楼、购物中心的清洁工作，收入稳定，工作时间灵活"
+      },
+      "hospitalityJobs": {
+        "title": "餐饮服务",
+        "description": "厨房助理、服务员、送餐员 - 多种餐饮职位可供选择"
+      },
+      "careJobs": {
+        "title": "护理工作",
+        "description": "老年护理、儿童照护和健康服务机会，提供培训"
+      },
+      "warehouseJobs": {
+        "title": "仓储物流",
+        "description": "包装工、分拣员、送货司机 - 物流行业的多样化机会"
+      },
+      "careServices": {
+        "title": "护理服务",
+        "description": "老年护理助理、家政服务 - 帮助他人并找到成就感"
+      },
+      "constructionJobs": {
+        "title": "建筑帮手",
+        "description": "装修助手、搬运工、建筑工地辅助工作"
+      },
+      "factoryJobs": {
+        "title": "工厂生产",
+        "description": "装配工、质检员、流水线工人 - 制造业职位"
+      },
+      "whyChooseUs": {
+        "title": "为什么选择我们？",
+        "free": {
+          "title": "完全免费",
+          "description": "注册、匹配和申请完全免费"
+        },
+        "matching": {
+          "title": "精准匹配",
+          "description": "基于您的情况提供最合适的工作"
+        },
+        "support": {
+          "title": "多语言支持",
+          "description": "德语、英语、阿拉伯语和其他语言"
+        }
+      },
+      "cta": {
+        "question": "准备好找到您的理想工作了吗？",
+        "startMatching": "立即开始匹配"
+      },
+      "featuredJobs": {
+        "title": "精选职位",
+        "hotelCleaner": {
+          "title": "酒店清洁员",
+          "company": "豪华酒店集团",
+          "location": "慕尼黑",
+          "salary": "€2,500-3,200/月",
+          "type": "全职",
+          "description": "加入我们慕尼黑豪华酒店团队。提供清洁程序和客户服务标准培训。"
+        },
+        "kitchenHelper": {
+          "title": "厨房助理",
+          "company": "连锁餐厅",
+          "location": "柏林",
+          "salary": "€2,200-2,800/月",
+          "type": "兼职",
+          "description": "在繁忙的餐厅支持我们的厨房团队。在获得稳定收入的同时学习烹饪技能。"
+        },
+        "caregiver": {
+          "title": "老年护理员",
+          "company": "护理服务有限公司",
+          "location": "汉堡",
+          "salary": "€2,800-3,500/月",
+          "type": "全职",
+          "description": "为老年客户提供富有同情心的护理。提供全面培训和认证。"
+        }
+      }
+    }
+  }
+}

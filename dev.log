@@ -1,0 +1,60 @@
+
+> job-matching-portals@0.1.0 dev /Users/hanbin/workspace/job-matching-portals
+> next dev --turbopack
+
+   ▲ Next.js 15.4.4 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://134.61.69.44:3000
+
+ ✓ Starting...
+ ✓ Compiled middleware in 192ms
+ ✓ Ready in 2.3s
+ ○ Compiling /[locale] ...
+ ✓ Compiled /[locale] in 2.9s
+ GET /de 404 in 5063ms
+ ✓ Compiled in 425ms
+ ✓ Compiled /[locale] in 154ms
+ HEAD /de 404 in 1826ms
+ ✓ Compiled in 466ms
+ ✓ Compiled in 65ms
+ ✓ Compiled in 71ms
+ ✓ Compiled /[locale] in 78ms
+ HEAD /de 200 in 356ms
+ GET /de 200 in 190ms
+ GET /en 200 in 183ms
+ GET /zh 200 in 1390ms
+ ✓ Compiled / in 372ms
+ HEAD / 307 in 550ms
+ ✓ Compiled in 3.5s
+ ✓ Compiled /[locale] in 171ms
+ GET /de 200 in 841ms
+ ○ Compiling /[locale]/jobs ...
+ ✓ Compiled /[locale]/jobs in 572ms
+ HEAD /de/jobs 200 in 2209ms
+ ○ Compiling /[locale]/quick-match ...
+ ✓ Compiled /[locale]/quick-match in 1393ms
+ HEAD /de/quick-match 200 in 2772ms
+ ○ Compiling /[locale]/profile ...
+ ✓ Compiled /[locale]/profile in 510ms
+ HEAD /de/profile 200 in 1744ms
+ ○ Compiling /[locale]/update-profile ...
+ ✓ Compiled /[locale]/update-profile in 709ms
+ HEAD /de/update-profile 200 in 2821ms
+ GET /de 200 in 637ms
+ ✓ Compiled middleware in 4ms
+ ✓ Compiled in 485ms
+ ✓ Compiled in 415ms
+ ✓ Compiled in 324ms
+ ✓ Compiled in 273ms
+ ✓ Compiled in 307ms
+ ✓ Compiled in 396ms
+ ✓ Compiled in 173ms
+ ✓ Compiled in 212ms
+ ✓ Compiled in 197ms
+ ✓ Compiled in 297ms
+ ✓ Compiled in 231ms
+ ✓ Compiled in 165ms
+ ✓ Compiled in 418ms
+ ✓ Compiled in 150ms
+ ✓ Compiled in 3.6s
+ ✓ Compiled in 233ms
