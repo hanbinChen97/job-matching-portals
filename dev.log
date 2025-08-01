@@ -58,3 +58,126 @@
  ✓ Compiled in 150ms
  ✓ Compiled in 3.6s
  ✓ Compiled in 233ms
+ ✓ Compiled / in 264ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1584ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.2qkr9jk5xes'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.2qkr9jk5xes'
+}
+[Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.t9i09cwalc'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.t9i09cwalc'
+}
+[Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.c6wg7roczhw'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.c6wg7roczhw'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.xlki061912'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.xlki061912'
+}
+[Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.0pbla1bmkf4'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.0pbla1bmkf4'
+}
+[Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.09el8s82p2yf'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.09el8s82p2yf'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.i47kril5ru'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.i47kril5ru'
+}
+[Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.zgcwxzncv7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.zgcwxzncv7'
+}
+[Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.9yyrweqamo'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.9yyrweqamo'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.16phlx98abhi'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.16phlx98abhi'
+}
+[Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/server/app/page/app-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.b8e8ii2sknt'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.b8e8ii2sknt'
+}
+[Error: ENOENT: no such file or directory, open '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.xhcdcs2xeo'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/hanbin/workspace/job-matching-portals/.next/static/development/_buildManifest.js.tmp.xhcdcs2xeo'
+}
